@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">My Application Splash</string>
+
+    <string-array name="office_options">
+        <item name ="GBM">GBM</item>"
+        <item name ="Star_House">Star House</item>"
+        <item name ="Maidenhead">Maidenhead</item>"
+    </string-array>
+
+
 </resources>
